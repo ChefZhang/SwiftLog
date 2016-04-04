@@ -25,3 +25,8 @@ func CZLog<T>(messsage : T, file : String = __FILE__, funcName : String = __FUNC
     #endif
 }
 ```
+
+
+![AppDelegate_swift.png](http://upload-images.jianshu.io/upload_images/328309-c049b2334859bf84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![ViewController_swift.png](http://upload-images.jianshu.io/upload_images/328309-3be22ec96e6e64d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
