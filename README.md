@@ -5,6 +5,8 @@ swift中自定义log
 在AppDelegate.swift
 写上以下函数,就可以使用以下的log函数
 
+
+```swift
 func CZLog<T>(messsage : T, file : String = __FILE__, funcName : String = __FUNCTION__, lineNum : Int = __LINE__) {
     
     
@@ -22,3 +24,4 @@ func CZLog<T>(messsage : T, file : String = __FILE__, funcName : String = __FUNC
         
     #endif
 }
+```
